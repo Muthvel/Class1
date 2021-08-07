@@ -1,6 +1,7 @@
 This is a django project created for learning and sharing what I have learnt.
 
 In this project we can Learn
+
     What is request and response?
     What is HTML markup?
     Why do we need server-side scripts?
