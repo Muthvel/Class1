@@ -1,4 +1,4 @@
-This is a django project created for learning and sharing what I have learnt.
+
 
 In this project we can Learn
 
